@@ -1,0 +1,23 @@
+{
+  "name": "web-playground",
+  "version": "1.0.0",
+  "description": "playing around with elixir and phoenix",
+  "main": "index.js",
+  "dependencies": {
+    "phoenix": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drin/web-playground.git"
+  },
+  "author": "octalene",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drin/web-playground/issues"
+  },
+  "homepage": "https://github.com/drin/web-playground#readme"
+}
